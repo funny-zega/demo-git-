@@ -7,5 +7,6 @@ int main(){
     cout<<"KTMT"<<endl;
     //Thay doi commit tren web 
     cout<<"Toi iu VLSI"<<endl;
+    cout<<"Hoc C++"<<endl;
     return 0;
 }
